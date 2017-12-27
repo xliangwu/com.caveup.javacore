@@ -1,4 +1,4 @@
-package com.learn.core.concurrent;
+package com.nowcode.java.core.concurrent;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

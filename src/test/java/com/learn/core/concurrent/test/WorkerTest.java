@@ -5,8 +5,8 @@ import java.util.concurrent.Executors;
 
 import org.junit.Test;
 
-import com.learn.core.concurrent.BoundedBuffer;
-import com.learn.core.concurrent.Worker;
+import com.nowcode.java.core.concurrent.BoundedBuffer;
+import com.nowcode.java.core.concurrent.Worker;
 
 public class WorkerTest {
 

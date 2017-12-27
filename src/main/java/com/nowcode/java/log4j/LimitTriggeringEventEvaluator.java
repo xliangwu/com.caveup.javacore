@@ -1,4 +1,4 @@
-package com.learn.log4j;
+package com.nowcode.java.log4j;
 
 import org.apache.log4j.Level;
 import org.apache.log4j.spi.LoggingEvent;

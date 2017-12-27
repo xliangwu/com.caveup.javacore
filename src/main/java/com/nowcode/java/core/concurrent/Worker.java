@@ -1,4 +1,4 @@
-package com.learn.core.concurrent;
+package com.nowcode.java.core.concurrent;
 
 public class Worker extends Thread {
 

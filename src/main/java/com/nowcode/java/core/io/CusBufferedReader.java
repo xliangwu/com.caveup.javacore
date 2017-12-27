@@ -1,6 +1,5 @@
-package com.learn.core.io;
+package com.nowcode.java.core.io;
 
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;

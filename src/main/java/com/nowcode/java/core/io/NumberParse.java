@@ -1,4 +1,4 @@
-package com.learn.core.io;
+package com.nowcode.java.core.io;
 
 public class NumberParse {
 
